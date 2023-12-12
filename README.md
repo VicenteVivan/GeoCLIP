@@ -1,6 +1,6 @@
 # GeoCLIP
 
-This is the repository that contains source code for the [GeoCLIP website](https://github.com/VicenteVivan/GeoCLIP).
+This is the repository that contains source code for the [GeoCLIP website](https://vicentevivan.github.io/GeoCLIP/).
 
 # Website License
 
